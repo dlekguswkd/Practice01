@@ -17,10 +17,10 @@ public class Ex07 {
 	public static void main(String[] args) {
 		
 		int true;        //true는 예약어라서 식별자로 사용이 불가능
-		int #_of_workers;        //
+		int #_of_workers;        //$와 _ 이외의 다른 특수문자는 사용 불가
 		int countOfLetterslnString;
 		int 1stLevel1;           //
-		int person#;          //
+		int person#;          //$와 _ 이외의 다른 특수문자는 사용 불가
 		int _person;
 		*/
 		
