@@ -12,6 +12,16 @@ public class Ex35 {
 		System.out.println("빛이 1년 동안 가는 거리는 " + (light*365*86400) + " km 입니다.");
 
 		// 하루는 86400초
+		
+		/*
+		long speed = 300000l;
+		long distance;
+	
+		//거리계산
+		distance = speed * 60 * 60 * 24 * 365;
+	
+		System.out.println("빛이 1년 동안 가는 거리는  " + distance + "  km 입니다." );
+		 */
 	}
 
 }
