@@ -11,7 +11,8 @@ public class Ex02 {
 		(3) JDK는 개발도구 와 JRE로 구성되어 있다
 		(4) JDK에는 javac.exe가 포함되어 있지 않다.
 
-	 답: (4) JDK에는 javac.exe가 포함되어 있다.
+	 답: 틀렸었음 
+	 (4) JDK에는 javac.exe가 포함되어 있다.
 	 
 	 javac.exe를 통해 컴파일을 하며 컴파일 후에는 바이트코드(~.class)파일이 생성된다.
 	 JDK는 개발도구와 JRE를 말하고 JRE는 실행할떄 필요하다

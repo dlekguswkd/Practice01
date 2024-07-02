@@ -9,7 +9,7 @@ public class Ex12 {
 	public static void main(String[] args) {
 		
 		int x, y = 0;				//int x=0, y=0;
-		char grade = "A";			//char은 작은따옴표(') 사용
+		char grade = "A";			//char은 작은따옴표(') 사용 또는 String 사용
 		int salary = 2,000,000;		//,는 문자취급 ->,생략 또는 int 대신 String "2,000,000" 사용
 		byte n = 1000;				//byte는 1byte로 -128~ 127까지만 표현 -> int 사용
 
